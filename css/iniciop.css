@@ -1,0 +1,82 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-color: #000000;
+	color:#000000;
+
+}
+#general{
+	width: 1500px;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-radius: 20px;
+	overflow: hidden;
+	text-align:left;
+}
+header{
+	height: 150px;
+	background:#00ffff;
+
+}
+header h1{
+	text-align:center;
+	font-family: arial;
+	font-size: 30px;
+	line-height: 50px;
+
+}
+nav{
+	background:#ae0000;
+	height: 100px;
+	text-align: center;
+}
+nav h1{
+	font-size: 600px;
+	text-align: center;
+	line-height:600px;
+}
+#informacion {
+	width: 1000px;
+	height: 500px;
+	float:left;
+	background: #ffd306;
+	margin-top: 100px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#informacion h6{
+	font-size: 100px;
+	text-align: center;
+	line-height: 100px;
+}
+#infomacion p{
+	font-family: arial, copperplate, optima;
+	style: 10px;
+}
+ aside{
+ 	width: 490px;
+ 	height: 490px;
+ 	background: #;
+ 	margin-top: 10px;
+ 	float: right;
+
+ }
+ aside h2{
+ 	font-size: 50px;
+ 	 text-align: right;
+ 	line-height: 50px;
+ }
+ footer{
+ 	background: #ff2d2d;
+ 	clear:  both;
+ }
+ footer h3{
+ 	font-size: 50px;
+ 	text-align: center;
+ 	padding: 20px;
+ 	font-style: italic;
+
+ }
